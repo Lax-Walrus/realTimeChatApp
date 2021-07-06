@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-![snapshot](.\utils\images)
+![snapshot](https://github.com/Lax-Walrus/realTimeChatApp/blob/main/utils/images/screenShot1.JPG?raw=true)
 
 ## description:
 
